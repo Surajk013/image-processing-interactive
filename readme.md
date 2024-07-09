@@ -72,4 +72,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Acknowledgments 🙏
 Special thanks to the developers of OpenCV, Pillow, and ImageMagick for their amazing libraries.
 Contact 📧
-If you have any questions or suggestions, feel free to open an issue or reach out to us at your-email@example.com.
+If you have any questions or suggestions, feel free to open an issue or reach out to us at kapshasurajs.cy23@example.com.
