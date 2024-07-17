@@ -73,7 +73,7 @@ Contributing 🤝
 We welcome contributions! Please read our Contributing Guide for details on how to get started.
 
 License 📜
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the GNU License - see the LICENSE file for details.
 
 Acknowledgments 🙏
 Special thanks to the developers of OpenCV, Pillow, PyTorch, and ImageMagick for their amazing libraries.
