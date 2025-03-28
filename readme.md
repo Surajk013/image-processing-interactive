@@ -36,7 +36,7 @@ Welcome to the **Image Processing Interactive Session**! This script is designed
 
 1. **Clone the Repository**:
    ```sh
-   git clone https://github.com/yourusername/image-processing-interactive.git
+   git clone https://github.com/surajk013/image-processing-interactive.git
    cd image-processing-interactive
 Install the Dependencies:
 sh
